@@ -1,3 +1,3 @@
 $(document).ready(function(){
-  $('.numbers').text('1, 2, 3');
+  $('.numbers').text('1, 2, 3, 4');
 });
